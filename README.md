@@ -1,7 +1,7 @@
 # Bike Dekho — Customer Purchase Analysis
 
 An end-to-end Excel analytics project examining **1,000 customer records** to answer one question: *what separates the people who buy a bike from the people who don't?*
-1. **[Live Excel Dashboard (Office Viewer) →](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fraw.githubusercontent.com%2FAnuSHAR-214%2FBike-Dekho-Project%2Fmain%2Fdashboard.xlxs.xlsx)**
+1. **[Live Excel Dashboard (Office Viewer) →](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fraw.githubusercontent.com%2FAnuSHAR-214%2FBike-Dekho-Project%2Fmain%2Fdashboard.xlsx)**
 2. **[View the live dashboard →](https://anushar-214.github.io/Bike-Dekho-Project/)**
 
 The interactive web version lets you filter the customer base by gender, region, age, education, occupation and home ownership, with every chart recalculating against the 48.1% baseline purchase rate.
